@@ -6,6 +6,11 @@ La mejor calidad de las semillas se encuentra en la parte media del cono, por lo
 
 En promedio un cono tiene 380 semillas.
 
+Reference-style: 
+![alt text][logo]
+
+[logo]: Germination/Abies_conos.jpg "Logo Title Text 2"
+
 ## Almacenamiento del germoplasma
 
 + Los conos deben secarse, posiblemente con luz solar.
