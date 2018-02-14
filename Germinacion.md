@@ -20,6 +20,9 @@ En promedio un cono tiene 380 semillas.
 ## Tratamiento pre-germinativo
 
 + **Desinfección:** Sumergirlas en una solución de H<sub>2</sub>O<sub>2</sub> al 30% [Álvarez-Moctezuma *et al*., 2007] (http://www.redalyc.org/articulo.oa?id=62914102)
+
+[I'm an inline-style link](https://www.google.com)
+
 + **Estratificación:** Mantener las semillas a temperaturas de 1 a 5 °C por un periodo de 14 a 28 días (Patiño *et al*., 1983). Se espera un porcentaje de germinación del 70%. 
 + **Alternativamente**, las semillas deben remojarse en agua de coco por **7 días** (Patiño *et al*., 1983). Con este método, se espera un % de germinación del 96.8.
 
