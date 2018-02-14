@@ -1,4 +1,4 @@
-# Obtención de megagametofitos de *Abies religiosa*
+# Obtención de megagametofitos en *Abies religiosa*
 
 La presencia de conos ocurre desde octubre, pero se recomienda colectarlos entre enero y febrero. Se recomiendan estas fechas porque es posible obtener un mayor número de embriones maduros.
 
