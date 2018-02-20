@@ -22,9 +22,7 @@ En promedio un cono tiene 380 semillas.
 
 + **Inbibición:** Sumergir las semillas en agua potable o agua destilada por 20 hrs. Posteriormente, secarlas a temperatura ambiente, con aire (en una cámara de flujo laminar) por 3 hrs. 
 
-+ **Viabilidad:** En un vaso de precipitados con agua potable, depositar las semillas. Mantener el vaso de precipitados a 2-4°C por 20 horas. Al término de este periodo, se esperan dos capas de semillas, las viables (en el fondo del vaso) y las inviables (flotando). Si estas capas no se forman, se secan las semillas por 3 hrs. y se repite el procedimiento.
-
-Las semillas se vuelven a desinfectar, enjuagar y secar.
++ **Viabilidad:** En un vaso de precipitados con agua potable, depositar las semillas. Mantener el vaso de precipitados a 2-4°C por 20 horas. Al término de este periodo, se esperan dos capas de semillas, las viables (en el fondo del vaso) y las inviables (flotando). Si estas capas no se forman, se secan las semillas por 3 hrs. y se repite el procedimiento. Las semillas se vuelven a desinfectar, enjuagar y secar.
 
 + **Estratificación:** 
 Método a) Mantener las semillas a temperaturas de 1 a 5 °C por un periodo de 14 a 28 días (Patiño *et al*., 1983). Se espera un porcentaje de germinación del 70%. Las semillas deben estar húmedas (pero evitar gotas de agua) en bolsas de plástico, perforadas por una aguja. 
