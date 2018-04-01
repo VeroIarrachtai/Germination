@@ -33,10 +33,10 @@ Método b) Las semillas deben remojarse en agua de coco por **7 días** (Patiño
 
 + Las semillas deben estar en humedad (papel filtro o agar) y a un control de temperatura de 20°C por 16 hrs. y 30°C por 8 hrs (ISTA, 2011). Se estima que la emergencia de la radícula empieza entre el 7 y 14 día después de la germinación.
 
-![](germinadas.jpg)
+![](cerillos_oyamel_cerrados.jpg)
 Imagen: Vivero Xochiac, Desierto de los Leones, 2018.
 
 ![](cerillos_oyamel.jpg)
 Imagen: "Cerillos", Vivero de Xochiac, Desierto de los Leones, 2018.
 
-Cuando la planta esta desprendiendose de la semilla se le llama "cerillo", ya que asemeja esta forma. 
+Cuando la planta esta desprendiendose de la semilla se le llama "cerillo", ya que asemeja esta forma.
