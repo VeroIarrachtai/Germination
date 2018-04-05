@@ -37,3 +37,5 @@ Método b) Las semillas deben remojarse en agua de coco por **7 días** (Patiño
 Imagen: "Cerillos", Vivero de Xochiac, Desierto de los Leones, 2018.
 
 Cuando la planta esta desprendiendose de la semilla se le llama "cerillo", ya que asemeja esta forma.
+
+La germinación fue hecha por el Dr. Pokemón en su estancia en el vivero
